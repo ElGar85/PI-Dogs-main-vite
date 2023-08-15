@@ -1,0 +1,21 @@
+.contenedor { 
+    margin: 0;
+    background:url("../Img/pexels.jpg") no-repeat center center;
+    width: 100%;
+    background-size: cover;
+    height:100vh;
+}
+
+.titulo { 
+    color: blue;
+    border-color: aqua;
+    box-shadow: rgb(33, 217, 54);
+}
+
+.boton {
+    
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 10px;
+    cursor: pointer;
+}
